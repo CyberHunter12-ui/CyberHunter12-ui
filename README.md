@@ -5,7 +5,7 @@
 **CS Sophomore · AI & Automation · Embedded Systems**
 Pune, India
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=flat-square&logo=netlify&logoColor=white)](https://portfolio-soumalya.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=flat-square&logo=netlify&logoColor=white)]([https://portfolio-soumalya.netlify.app](https://soumalya-mandal-dev.netlify.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumalyamandal)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:crazyscience820@gmail.com)
 
