@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=17645F&text=Soumalya%20Mandal&fontColor=F3EEE8&fontSize=52&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Vision%20Systems%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Automation&descSize=17&descAlignY=60&descColor=F3EEE8" alt="Soumalya Mandal banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=17645F&text=Soumalya%20Mandal&fontColor=F3EEE8&fontSize=52&fontAlignY=38&animation=fadeIn&desc=AI%20and%20Vision%20Systems%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Automation&descSize=17&descAlignY=60&descColor=F3EEE8" alt="Soumalya Mandal banner" width="100%" />
 
 <a href="https://github.com/soumalyamandal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=AF6845&center=true&vCenter=true&width=640&height=45&lines=Training+and+optimizing+LLMs+%26+VLMs;Building+CUDA-efficient+vision+pipelines;Flashing+firmware+on+ESP32+boards;Shipping+full-stack+products+to+production" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=AF6845&center=true&vCenter=true&width=640&height=45&lines=Training+and+optimizing+LLMs+and+VLMs;Building+CUDA-efficient+vision+pipelines;Flashing+firmware+on+ESP32+boards;Shipping+full-stack+products+to+production" alt="Typing animation" />
 </a>
 
 B.Tech Computer Science (AI & Automation) · DY Patil International University, Pune
