@@ -8,7 +8,7 @@ B.Tech Computer Science (AI & Automation) · DY Patil International University, 
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-17645F?style=for-the-badge&logo=netlify&logoColor=F3EEE8)](https://soumalya-mandal-dev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-17645F?style=for-the-badge&logo=netlify&logoColor=F3EEE8)](https://soumalya-mandal-dev1.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AF6845?style=for-the-badge&logo=linkedin&logoColor=F3EEE8)](https://linkedin.com/in/soumalyamandal)
 [![Email](https://img.shields.io/badge/Email-17645F?style=for-the-badge&logo=gmail&logoColor=F3EEE8)](mailto:crazyscience820@gmail.com)
 
